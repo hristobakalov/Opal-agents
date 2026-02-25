@@ -18,3 +18,7 @@ A Canvas-based tool for scoring experiment ideas using the RICE framework (Reach
 2. In Opal, import a new custom agent
 3. Paste the configuration
 4. Run it
+
+#Examples and more information
+If you are interested in reading more about practicle cases and how to use them in action - read my blogs [Hristo's website](https://hristo.vercel.app/).
+
